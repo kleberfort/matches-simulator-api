@@ -3,7 +3,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "https://www.estadios.net/wp-content/uploads/2018/10/estadio-do-maracana-dia-de-jogo.jpg"
         },
     "mandante": {
       "nome": "Brasil",
@@ -20,7 +20,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Estádio Centenário",
-      "imagem": "TODO"
+      "imagem": "https://www.lance.com.br/files/article_main/uploads/2021/11/20/6199232e5ad86.jpeg"
         },
     "mandante": {
       "nome": "Uruguay",
@@ -37,7 +37,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "https://www.estadios.net/wp-content/uploads/2018/10/estadio-do-maracana-dia-de-jogo.jpg"
         },
     "mandante": {
       "nome": "Brasil",
